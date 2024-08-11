@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ganesh Nimbalkar</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://static01.nyt.com/images/2020/11/25/business/25TECHFIX-GIF/24TECHFIX-GIF-articleLarge.gif?quality=75&auto=webp&disable=upscale">
+<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/029/923/001/original/digital-java-code-text-computer-software-coding-concept-programming-coding-script-java-digital-program-code-on-screen-illustration-stock-illustration-vector.jpg">
 
 
 - 🔭 I’m currently working on **Standalone Single-Page E-commerce Application with React and Spring Boot**
